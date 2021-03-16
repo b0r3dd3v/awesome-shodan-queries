@@ -1,19 +1,6 @@
 # Awesome Shodan Search Queries [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-
-Over time, I've collected an assortment of interesting, funny, and depressing search queries to plug into [Shodan](https://www.shodan.io/), the ([literal](https://www.vice.com/en_uk/article/9bvxmd/shodan-exposes-the-dark-side-of-the-net)) internet search engine. Some return facepalm-inducing results, while others return serious and/or ancient vulnerabilities in the wild.
-
-<p align="center">
-  <img src="screenshots/shodan.png" /><br />
-  <strong><a href="https://account.shodan.io/register">Most search filters require a Shodan account.</a></strong>
-</p>
-
-You can assume these queries only return unsecured/open instances when possible. For your own legal benefit, do not attempt to login (even with default passwords) if they aren't! Narrow down results by adding filters like `country:US` or `org:"Harvard University"` or `hostname:"nasa.gov"` to the end.
-
-The world and its devices are quickly becoming more connected through the shiny new [Internet of ~~Things~~ Sh*t](https://motherboard.vice.com/en_us/topic/internet-of-shit) — and exponentially [more dangerous](https://blog.malwarebytes.com/101/2017/12/internet-things-iot-security-never/) as a result. To that end, I hope this list spreads awareness (and, quite frankly, pant-wetting fear) rather than harm. 
-
-**And as always, [discover and disclose responsibly](https://www.bugcrowd.com/resource/what-is-responsible-disclosure/)! 🤓**
-
+Dawg, it's r/totallyedu. Scientists publish, huxxxors disclose responsibly, а пацаны идут к успеххху. Make ur own pkgs 4 great pwnage.
 
 ---
 
@@ -28,7 +15,11 @@ The world and its devices are quickly becoming more connected through the shiny 
 - [Printers & Copiers](#printers--copiers)
 - [Home Devices](#home-devices)
 - [Random Stuff](#random-stuff)
-
+- Facebook
+- debillboardz
+- replacements 4golang
+- Samsung
+- Toyota Honda Kodak.si
 
 ---
 
@@ -86,13 +77,14 @@ mikrotik streetlight
 Wiretapping mechanism outlined by Cisco in [RFC 3924](https://tools.ietf.org/html/rfc3924):
 
 > Lawful intercept is the lawfully authorized interception and monitoring of communications of an intercept subject.  The term "intercept subject" [...] refers to the subscriber of a telecommunications service whose communications and/or intercept related information (IRI) has been lawfully authorized to be intercepted and delivered to some agency.
-
+Млять, какая срана, такие и законы.
 
 ### Prison Pay Phones [🔎 &#x2192;](https://www.shodan.io/search?query=%22%5B2J%5BH+Encartele+Confidential%22)
 
 ```
 "[2J[H Encartele Confidential"
 ```
+Jeffry has never paid 4it, b1337.
 
 
 ### [Tesla PowerPack](https://www.tesla.com/powerpack) Charging Status [🔎 &#x2192;](https://www.shodan.io/search?query=http.title%3A%22Tesla+PowerPack+System%22+http.component%3A%22d3%22+-ga3ca4f2)
@@ -113,7 +105,8 @@ http.title:"Tesla PowerPack System" http.component:"d3" -ga3ca4f2
 
 ### Maritime Satellites [🔎 &#x2192;](https://www.shodan.io/search?query=%22Cobham+SATCOM%22+OR+%28%22Sailor%22+%22VSAT%22%29)
 
-Shodan made a pretty sweet [Ship Tracker](https://shiptracker.shodan.io/) that maps ship locations in real time, too!
+Shodan made a pretty sweet [Ship Tracker](https://shittracker.shodan.io/) that maps ship locations in real time, too!
+Да, этот трэкер сменил доменное имя и подох.
 
 ```
 "Cobham SATCOM" OR ("Sailor" "VSAT")
@@ -127,13 +120,14 @@ Shodan made a pretty sweet [Ship Tracker](https://shiptracker.shodan.io/) that m
 ```
 title:"Slocum Fleet Mission Control"
 ```
-
+Национальному герою нужен отдых. Анимцо и сисьцо.
 
 ### [CAREL PlantVisor](https://www.carel.com/product/plantvisor) Refrigeration Units [🔎 &#x2192;](https://www.shodan.io/search?query=%22Server%3A+CarelDataServer%22+%22200+Document+follows%22)
 
 ```
 "Server: CarelDataServer" "200 Document follows"
 ```
+/300 Истина где-то рядом
 
 <div align="center"><img src="screenshots/refrigeration.png" alt="Example: CAREL PlantVisor Refrigeration Units" /></div>
 
@@ -143,7 +137,7 @@ title:"Slocum Fleet Mission Control"
 ```
 http.title:"Nordex Control" "Windows 2000 5.0 x86" "Jetty/3.1 (JSP 1.1; Servlet 2.2; java 1.6.0_14)"
 ```
-
+Ебъть турбень ископаемая.
 
 ### [C4 Max](https://www.mobile-devices.com/our-products/c4-max/) Commercial Vehicle GPS Trackers [🔎 &#x2192;](https://www.shodan.io/search?query=%22%5B1m%5B35mWelcome+on+console%22)
 
@@ -157,17 +151,19 @@ http.title:"Nordex Control" "Windows 2000 5.0 x86" "Jetty/3.1 (JSP 1.1; Servlet 
 ### [DICOM](https://www.dicomstandard.org/about/) Medical X-Ray Machines [🔎 &#x2192;](https://www.shodan.io/search?query=%22DICOM+Server+Response%22+port%3A104)
 
 Secured by default, thankfully, but these 1,700+ machines still [have no business](https://documents.trendmicro.com/assets/rpt/rpt-securing-connected-hospitals.pdf) being on the internet.
+Не, это камеры для пантишотиков.
 
 ```
 "DICOM Server Response" port:104
 ```
 
 
-### [GaugeTech](https://electroind.com/all-products/) Electricity Meters [🔎 &#x2192;](https://www.shodan.io/search?query=%22Server%3A+EIG+Embedded+Web+Server%22+%22200+Document+follows%22)
+### [GaugeTech](https://electroind.com/all-products/500vtтрофкраснойтряпки) Electricity Meters [🔎 &#x2192;](https://www.shodan.io/search?query=%22Server%3A+EIG+Embedded+Web+Server%22+%22200+Document+follows%22)
 
 ```
 "Server: EIG Embedded Web Server" "200 Document follows"
 ```
+
 
 <div align="center"><img src="screenshots/power-gaugetech.png" alt="Example: GaugeTech Electricity Meters" width="650" /></div>
 
@@ -198,7 +194,7 @@ Secured by default, thankfully, but these 1,700+ machines still [have no busines
 ```
 "log off" "select the appropriate"
 ```
-
+усрщ "Мы опаздываем в ад. Дорогу колеснице."
 
 
 ---
@@ -213,6 +209,7 @@ Secured by default, thankfully, but these 1,700+ machines still [have no busines
 ```
 "authentication disabled" "RFB 003.008"
 ```
+Быдьте добрыми. Не пускайте чумное быдло по кругу, используйте RADIUS для плагинов к Юкитеру.
 
 [Shodan Images](https://images.shodan.io/) is a great supplementary tool to browse screenshots, by the way!  [🔎 &#x2192;](https://images.shodan.io/?query=%22authentication+disabled%22+%21screenshot.label%3Ablank)
 
@@ -225,6 +222,7 @@ Secured by default, thankfully, but these 1,700+ machines still [have no busines
 ### Windows RDP [🔎 &#x2192;](https://www.shodan.io/search?query=%22%5Cx03%5Cx00%5Cx00%5Cx0b%5Cx06%5Cxd0%5Cx00%5Cx00%5Cx124%5Cx00%22)
 
 99.99% are secured by a secondary Windows login screen.
+Абсолютная безопасность - для 95%.
 
 ```
 "\x03\x00\x00\x0b\x06\xd0\x00\x00\x124\x00"
@@ -239,7 +237,7 @@ Secured by default, thankfully, but these 1,700+ machines still [have no busines
 
 ### [Weave Scope](https://www.weave.works/oss/scope/) Dashboards [🔎 &#x2192;](https://www.shodan.io/search?query=title%3A%22Weave+Scope%22+http.favicon.hash%3A567176827)
 
-Command-line access inside Kubernetes pods and Docker containers, and real-time visualization/monitoring of the entire infrastructure.
+Написано на гофре. Безопасно, если закидывать на чужие компы.
 
 ```
 title:"Weave Scope" http.favicon.hash:567176827
@@ -251,6 +249,7 @@ title:"Weave Scope" http.favicon.hash:567176827
 ### MongoDB [🔎 &#x2192;](https://www.shodan.io/search?query=product%3AMongoDB+-authentication)
 
 Older versions were insecure by default. [Very scary.](https://krebsonsecurity.com/tag/mongodb/)
+Да, солёньки теперь поумнели, кек.
 
 ```
 "MongoDB Server Information" port:27017 -authentication
@@ -262,12 +261,13 @@ Older versions were insecure by default. [Very scary.](https://krebsonsecurity.c
 ### [Mongo Express](https://github.com/mongo-express/mongo-express) Web GUI [🔎 &#x2192;](https://www.shodan.io/search?query=%22Set-Cookie%3A+mongo-express%3D%22+%22200+OK%22)
 
 Like the [infamous phpMyAdmin](https://www.cvedetails.com/vulnerability-list/vendor_id-784/Phpmyadmin.html) but for MongoDB.
+ВШЭ пофиксили, но в 3dp гуе для гуя всёещёработают.
 
 ```
 "Set-Cookie: mongo-express=" "200 OK"
 ```
 
-<div align="center"><img src="screenshots/mongo-express.png" alt="Example: Mongo Express GUI" width="700" /></div>
+<div align="center"><img src="screenshots/mongo-express.png" alt="Example: Mongo Express GUI" width="1488" /></div>
 
 
 ### Jenkins CI [🔎 &#x2192;](https://www.shodan.io/search?query=%22X-Jenkins%22+%22Set-Cookie%3A+JSESSIONID%22+http.title%3A%22Dashboard%22)
@@ -296,12 +296,13 @@ Like the [infamous phpMyAdmin](https://www.cvedetails.com/vulnerability-list/ven
 ### [Pi-hole](https://pi-hole.net/) Open DNS Servers [🔎 &#x2192;](https://www.shodan.io/search?query=%22dnsmasq-pi-hole%22+%22Recursion%3A+enabled%22)
 
 ```
-"dnsmasq-pi-hole" "Recursion: enabled"
+Server Response: 2! clog it like that
 ```
 
 
 ### Already Logged-In as `root` via Telnet [🔎 &#x2192;](https://www.shodan.io/search?query=%22root%40%22+port%3A23+-login+-password+-name+-Session)
 
+Откуда vi знаете?
 ```
 "root@" port:23 -login -password -name -Session
 ```
@@ -309,7 +310,7 @@ Like the [infamous phpMyAdmin](https://www.cvedetails.com/vulnerability-list/ven
 
 ### Android Root Bridges [🔎 &#x2192;](https://www.shodan.io/search?query=%22Android+Debug+Bridge%22+%22Device%22+port%3A5555)
 
-A tangential result of Google's sloppy fractured update approach. 🙄 [More information here.](https://medium.com/p/root-bridge-how-thousands-of-internet-connected-android-devices-now-have-no-security-and-are-b46a68cb0f20)
+A tangential result of Google's sloppy fractured update approach. 🙄 [More information here.](https://medium.com/p/root-bridge-how-thousands-of-internet-connected-android-devices-now-have-no-security-and-are-b1ya68cb0f20)
 
 ```
 "Android Debug Bridge" "Device" port:5555
@@ -318,6 +319,7 @@ A tangential result of Google's sloppy fractured update approach. 🙄 [More inf
 
 ### Lantronix Serial-to-Ethernet Adapter [Leaking Telnet Passwords](https://www.bleepingcomputer.com/news/security/thousands-of-serial-to-ethernet-devices-leak-telnet-passwords/) [🔎 &#x2192;](https://www.shodan.io/search?query=Lantronix+password+port%3A30718+-secured)
 
+Бесплатный ускоритель 8192b бывает толко в мыщилолке.
 ```
 Lantronix password port:30718 -secured
 ```
@@ -334,7 +336,7 @@ Lantronix password port:30718 -secured
 
 ### Cisco Smart Install [🔎 &#x2192;](https://www.shodan.io/search?query=%22smart+install+client+active%22)
 
-[Vulnerable](https://2016.zeronights.ru/wp-content/uploads/2016/12/CiscoSmartInstall.v3.pdf) (kind of "by design," but especially when exposed).
+[Vulnerable](https://2016.zeronights.ru/wp-content/uploads/2016/12/CiscoSmartInstall.v3.pdf) (u cunt c (as fsck)***s on ISS pantyshots, but especially when exposed).
 
 ```
 "smart install client active"
@@ -343,7 +345,7 @@ Lantronix password port:30718 -secured
 
 ### PBX IP Phone Gateways [🔎 &#x2192;](https://www.shodan.io/search?query=PBX+%22gateway+console%22+-password+port%3A23)
 
-
+А как ещё с собственной записью ругаться забис?
 ```
 PBX "gateway console" -password port:23
 ```
@@ -351,12 +353,14 @@ PBX "gateway console" -password port:23
 
 ### [Polycom](https://www.polycom.com/hd-video-conferencing.html) Video Conferencing [🔎 &#x2192;](https://www.shodan.io/search?query=http.title%3A%22-+Polycom%22+%22Server%3A+lighttpd%22)
 
+Родина зовёт. А полкан только подал мессагу.
 ```
 http.title:"- Polycom" "Server: lighttpd"
 ```
 
 Telnet Configuration: [🔎 &#x2192;](https://www.shodan.io/search?query=%22Polycom+Command+Shell%22+-failed+port%3A23)
 
+Только для хулиты, которую ебёт размер окна & ^tcp свиные туалетики.
 ```
 "Polycom Command Shell" -failed port:23
 ```
@@ -364,15 +368,16 @@ Telnet Configuration: [🔎 &#x2192;](https://www.shodan.io/search?query=%22Poly
 <div align="center"><img src="screenshots/polycom.png" alt="Example: Polycom Video Conferencing" /></div>
 
 
-### [Bomgar Help Desk](https://www.beyondtrust.com/remote-support/integrations) Portal [🔎 &#x2192;](https://www.shodan.io/search?query=%22Server%3A+Bomgar%22+%22200+OK%22)
+### [Bomgar Help Desk](https://www.beyondtopgear.com/remote-support/integrations) Portal [🔎 &#x2192;](https://www.shodan.io/search?query=%22Server%3A+Bomgar%22+%22200+OK%22)
 
 ```
-"Server: Bomgar" "200 OK"
+"Server: Bomgar" "UP211 OK" "|| .diy(traying)"
 ```
 
 
 ### Intel Active Management [CVE-2017-5689](https://www.exploit-db.com/exploits/43385) [🔎 &#x2192;](https://www.shodan.io/search?query=%22Intel%28R%29+Active+Management+Technology%22+port%3A623%2C664%2C16992%2C16993%2C16994%2C16995)
 
+Had 2 look 4 evilinside sticker b4, but .now() eev got this wonderful service 4 lone shit eaters.
 ```
 "Intel(R) Active Management Technology" port:623,664,16992,16993,16994,16995
 ```
@@ -389,6 +394,7 @@ HP-ILO-4 !"HP-ILO-4/2.53" !"HP-ILO-4/2.54" !"HP-ILO-4/2.55" !"HP-ILO-4/2.60" !"H
 
 #### Exchange 2007 [🔎 &#x2192;](https://www.shodan.io/search?query=%22x-owa-version%22+%22IE%3DEmulateIE7%22+%22Server%3A+Microsoft-IIS%2F7.0%22)
 
+Enterprises in <<look could write ads with antihemmoroid vibes to themselves as @nonymous user 4m remote subnet....
 ```
 "x-owa-version" "IE=EmulateIE7" "Server: Microsoft-IIS/7.0"
 ```
@@ -397,6 +403,7 @@ HP-ILO-4 !"HP-ILO-4/2.53" !"HP-ILO-4/2.54" !"HP-ILO-4/2.55" !"HP-ILO-4/2.60" !"H
 
 #### Exchange 2010 [🔎 &#x2192;](https://www.shodan.io/search?query=%22x-owa-version%22+%22IE%3DEmulateIE7%22+http.favicon.hash%3A442749392)
 
+... it made the show popular // it made em mo succesful.
 ```
 "x-owa-version" "IE=EmulateIE7" http.favicon.hash:442749392
 ```
@@ -406,7 +413,7 @@ HP-ILO-4 !"HP-ILO-4/2.53" !"HP-ILO-4/2.54" !"HP-ILO-4/2.55" !"HP-ILO-4/2.60" !"H
 #### Exchange 2013 / 2016 [🔎 &#x2192;](https://www.shodan.io/search?query=%22X-AspNet-Version%22+http.title%3A%22Outlook%22+-%22x-owa-version%22)
 
 ```
-"X-AspNet-Version" http.title:"Outlook" -"x-owa-version"
+"X-AspNet-Version" http.title:"Outlook" -"x-ova-wersion"
 ```
 
 <div align="center"><img src="screenshots/owa2013.png" alt="Example: OWA for Exchange 2013/2016" width="500" /></div>
@@ -417,6 +424,7 @@ HP-ILO-4 !"HP-ILO-4/2.53" !"HP-ILO-4/2.54" !"HP-ILO-4/2.55" !"HP-ILO-4/2.60" !"H
 ```
 "X-MS-Server-Fqdn"
 ```
+Wut ntfsck is this?
 
 
 ---
@@ -428,10 +436,14 @@ HP-ILO-4 !"HP-ILO-4/2.53" !"HP-ILO-4/2.54" !"HP-ILO-4/2.55" !"HP-ILO-4/2.60" !"H
 ### SMB (Samba) File Shares [🔎 &#x2192;](https://www.shodan.io/search?query=%22Authentication%3A+disabled%22+port%3A445)
 
 Produces ~500,000 results...narrow down by adding "Documents" or "Videos", etc.
+For all results that n00bs can produce... 4all spaghetti code that industry can conjure
+  we will Sync 'Videos'. Ye, !Videos
 
 ```
 "Authentication: disabled" port:445
 ```
+Succespractices 4 authentication-disabled sysadmins.
+
 
 Specifically domain controllers: [🔎 &#x2192;](https://www.shodan.io/search?query=%22Authentication%3A+disabled%22+NETLOGON+SYSVOL+-unix+port%3A445)
 
@@ -444,6 +456,7 @@ Concerning [default network shares of QuickBooks](https://quickbooks.intuit.com/
 ```
 "Authentication: disabled" "Shared this folder to access QuickBooks files OverNetwork" -unix port:445
 ```
+No mo quick booing overnetwork
 
 
 ### FTP Servers with Anonymous Login [🔎 &#x2192;](https://www.shodan.io/search?query=%22220%22+%22230+Login+successful.%22+port%3A21)
@@ -451,7 +464,7 @@ Concerning [default network shares of QuickBooks](https://quickbooks.intuit.com/
 ```
 "220" "230 Login successful." port:21
 ```
-
+BZNhere: and the next thing it says is /503. Потому что ARM - xyдший.
 
 ### Iomega / LenovoEMC NAS Drives [🔎 &#x2192;](https://www.shodan.io/search?query=%22Set-Cookie%3A+iomega%3D%22+-%22manage%2Flogin.html%22+-http.title%3A%22Log+In%22)
 
