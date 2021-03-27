@@ -33,7 +33,11 @@ Dawg, it's r/totallyedu. Scientists publish, huxxxors disclose responsibly, а �
 "Server: Prismview Player"
 ```
 
-<div align="center"><img src="screenshots/billboard3.png" alt="Example: Electronic Billboards" width="500" /></div>
+<div align="center"><img src="screenshots/9xpr42utrdo61.jpg" alt="Example: Electronic Billboards" width="500" /></div>
+
+They shitpissfucked themselves in publik cz migration 2 fullstack. пдвиг их бъссмерден. Дорогие ветеринары(those who have sucked with u.s. for 3 yrs straight) - возможно, вы наденетесь что вас излечит от человечности h-/v444.
+Но мы всегда будем помнить, что вы сделали прошлым летом с нащими TL... не забыдем и не простим.
+
 
 
 ### Gas Station Pump Controllers [🔎 &#x2192;](https://www.shodan.io/search?query=%22in-tank+inventory%22+port%3A10001)
@@ -42,7 +46,10 @@ Dawg, it's r/totallyedu. Scientists publish, huxxxors disclose responsibly, а �
 "in-tank inventory" port:10001
 ```
 
-<div align="center"><img src="screenshots/7-11.png" alt="Example: Gas Station Pump Inventories" width="700" /></div>
+<div align="center"><img src="screenshots/23461305aa892b021d7be8d4c5adbd92.jpg" alt="Example: Gas Station Pump Inventories" width="700" /></div>
+
+\\2u have any cartoons 4 disabled kids these dayz?
+I'm srry, (that's teh only way || u look like a robot).
 
 
 ### Automatic License Plate Readers [🔎 &#x2192;](https://www.shodan.io/search?query=P372+%22ANPR+enabled%22)
@@ -59,6 +66,7 @@ P372 "ANPR enabled"
 ```
 mikrotik streetlight
 ```
+Don't tell me c is limit, when children are present.
 
 
 ### Voting Machines in the United States [🔎 &#x2192;](https://www.shodan.io/search?query=%22voter+system+serial%22+country%3AUS)
@@ -84,7 +92,7 @@ Wiretapping mechanism outlined by Cisco in [RFC 3924](https://tools.ietf.org/htm
 ```
 "[2J[H Encartele Confidential"
 ```
-Jeffry has never paid 4it, b1337.
+
 
 
 ### [Tesla PowerPack](https://www.tesla.com/powerpack) Charging Status [🔎 &#x2192;](https://www.shodan.io/search?query=http.title%3A%22Tesla+PowerPack+System%22+http.component%3A%22d3%22+-ga3ca4f2)
@@ -127,9 +135,9 @@ title:"Slocum Fleet Mission Control"
 ```
 "Server: CarelDataServer" "200 Document follows"
 ```
-/300 Истина где-то рядом
+Actually unemployed in anime industry - full stack meating deliverables.
 
-<div align="center"><img src="screenshots/refrigeration.png" alt="Example: CAREL PlantVisor Refrigeration Units" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/b0r3dd3v/devbolge/sleiv/breinfuckcc192job.jpg" alt="Example: CAREL PlantVisor Refrigeration Units" /></div>
 
 
 ### [Nordex Wind Turbine](http://www.nordex-online.com/en/products-services/wind-turbines.html) Farms [🔎 &#x2192;](https://www.shodan.io/search?query=http.title%3A%22Nordex+Control%22+%22Windows+2000+5.0+x86%22+%22Jetty%2F3.1+%28JSP+1.1%3B+Servlet+2.2%3B+java+1.6.0_14%29%22)
@@ -214,8 +222,8 @@ Secured by default, thankfully, but these 1,700+ machines still [have no busines
 [Shodan Images](https://images.shodan.io/) is a great supplementary tool to browse screenshots, by the way!  [🔎 &#x2192;](https://images.shodan.io/?query=%22authentication+disabled%22+%21screenshot.label%3Ablank)
 
 <p align="center">
-  <img src="screenshots/vnc.png" alt="Example: Unprotected VNC" /><br />
-  <em>The first result right now. 😞</em>
+  <img src="https://raw.githubusercontent.com/b0r3dd3v/devbolge/sleiv/kickasstorrents.jpg" alt="Example: Unprotected VNC" /><br />
+  <em>Добрецо для анимца. 😞</em>
 </p>
 
 
@@ -304,7 +312,7 @@ Server Response: 2! clog it like that
 
 Откуда vi знаете?
 ```
-"root@" port:23 -login -password -name -Session
+"root@" port:443 -login -password autobrewin -name boos -Session 6htorrenthelthedu
 ```
 
 
@@ -371,7 +379,7 @@ Telnet Configuration: [🔎 &#x2192;](https://www.shodan.io/search?query=%22Poly
 ### [Bomgar Help Desk](https://www.beyondtopgear.com/remote-support/integrations) Portal [🔎 &#x2192;](https://www.shodan.io/search?query=%22Server%3A+Bomgar%22+%22200+OK%22)
 
 ```
-"Server: Bomgar" "UP211 OK" "|| .diy(traying)"
+"Server: Bomgar" "^2.1.1 Haaaaail" "|| .diy(traying)"
 ```
 
 
@@ -469,10 +477,10 @@ BZNhere: and the next thing it says is /503. Потому что ARM - xyдши�
 ### Iomega / LenovoEMC NAS Drives [🔎 &#x2192;](https://www.shodan.io/search?query=%22Set-Cookie%3A+iomega%3D%22+-%22manage%2Flogin.html%22+-http.title%3A%22Log+In%22)
 
 ```
-"Set-Cookie: iomega=" -"manage/login.html" -http.title:"Log In"
+"Set-Cookie: iomega=" -"kusoge/login.html" -http.title:"Log In"
 ```
 
-<div align="center"><img src="screenshots/iomega.png" alt="Example: Iomega / LenovoEMC NAS Drives" width="600" /></div>
+<div align="center"><img src="screenshots/biomega.png" alt="Example: Iomega / LenovoEMC NAS Drives" width="600" /></div>
 
 
 ### Buffalo TeraStation NAS Drives [🔎 &#x2192;](https://www.shodan.io/search?query=Redirecting+sencha+port%3A9000)
@@ -514,7 +522,7 @@ Redirecting sencha port:9000
 
 ## Webcams
 
-Example images not necessary. 🤦
+div by zer0 ; img src = 10.0.0.1/showa; alt = .edu; width = W-Cup; invmul
 
 ### Yawcams [🔎 &#x2192;](https://www.shodan.io/search?query=%22Server%3A+yawcam%22+%22Mime-Type%3A+text%2Fhtml%22)
 
@@ -606,7 +614,7 @@ ssl:"Xerox Generic Root"
 "Server: AV_Receiver" "HTTP/1.1 406"
 ```
 
-<div align="center"><img src="screenshots/yamaha.png" alt="Example: Yamaha Stereos" width="500" /></div>
+<div align="center"><img src="screenshots/yamacuckoo.png" alt="Example: Yamaha Stereos" width="500" /></div>
 
 
 ### Apple AirPlay Receivers [🔎 &#x2192;](https://www.shodan.io/search?query=%22%5Cx08_airplay%22+port%3A5353)
@@ -685,6 +693,8 @@ http.html:"* The wp-config.php creation script uses this file"
 ```
 net:175.45.176.0/22,210.52.109.0/24,77.94.35.0/24
 ```
+Всё как в Греции, только ещё древне.
+
 
 
 ### TCP Quote of the Day [🔎 &#x2192;](https://www.shodan.io/search?query=port%3A17+product%3A%22Windows+qotd%22)
@@ -701,7 +711,7 @@ port:17 product:"Windows qotd"
 ```
 "X-Recruiting:"
 ```
-
+How about finding azn footjob instead of doing hooman shit?
 
 ---
 
