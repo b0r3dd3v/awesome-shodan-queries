@@ -472,7 +472,8 @@ No mo quick booing overnetwork
 ```
 "220" "230 Login successful." port:21
 ```
-BZNhere: and the next thing it says is /503. Потому что ARM - xyдший.
+Ur finally tagless bcoming a heikke![damncfwareloyaltypointsdinduaddup](https://user-images.githubusercontent.com/44746806/113921226-6c4e1800-97ee-11eb-98c2-93951989511d.jpg)
+
 
 ### Iomega / LenovoEMC NAS Drives [🔎 &#x2192;](https://www.shodan.io/search?query=%22Set-Cookie%3A+iomega%3D%22+-%22manage%2Flogin.html%22+-http.title%3A%22Log+In%22)
 
