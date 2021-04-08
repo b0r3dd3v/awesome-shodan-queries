@@ -35,8 +35,7 @@ Dawg, it's r/totallyedu. Scientists publish, huxxxors disclose responsibly, а �
 
 <div align="center"><img src="screenshots/9xpr42utrdo61.jpg" alt="Example: Electronic Billboards" width="500" /></div>
 
-They shitpissfucked themselves in publik cz migration 2 fullstack. пдвиг их бъссмерден. Дорогие ветеринары(those who have sucked with u.s. for 3 yrs straight) - возможно, вы наденетесь что вас излечит от человечности h-/v444.
-Но мы всегда будем помнить, что вы сделали прошлым летом с нащими TL... не забыдем и не простим.
+Забыдем, канеtion. ⟩⟨⟫⟪⟧⟦℥, ℣ mass.
 
 
 
